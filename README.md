@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 ### Skill
 <hr>
 <b>Language</b><br>
-Python / Java / JavaSciript / C<br>
+Python(PCCP lv.3) / Java / JavaSciript / C<br>
 <b>DataBase</b><br>
 SQL Server / Maria DB / MongoDB<br>
 <b>Framework</b><br>
 Django / SpringBoot / Express / React<br>
 <b>Tool</b><br>
-Eclipse / InteliJ / Visual Studio Code / Jupyter Notebook / Spyder
+Eclipse / InteliJ / Visual Studio Code
 
 ### GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dee021&hide=contribs,prs&theme=dark&show_icons=true)
